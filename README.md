@@ -13,7 +13,7 @@ Welcome to my personal **vxwm** desktop environment configuration and dotfiles. 
 
 ## 📸 Preview
 
-![Preview 1](2026-06-25-011928_1920x1080_scrot)
+![Preview 1](2026-06-25-011928_1920x1080_scrot.png)
 
 ---
 
