@@ -43,7 +43,7 @@ The `install.sh` script handles the installation of these core system utilities 
 
 Follow these simple steps to deploy the entire configuration onto your fresh Arch Linux environment:
 
-### 1. Clone the Repository
+### 1. Just Run This
 ```fish
 git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
